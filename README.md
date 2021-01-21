@@ -1,2 +1,2 @@
 # C-Quiz Game
- C
+ A quiz game using c.
